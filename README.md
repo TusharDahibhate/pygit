@@ -1,2 +1,2 @@
 # pygit
-A simple git client in python
+A simple git wapper in python
